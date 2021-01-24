@@ -1,0 +1,76 @@
+.header{
+    height: 100px;
+    background: rgb(37, 224, 215);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: white solid 10px;
+    margin-top: 10px;
+}
+
+.hero{
+    height: 350px;
+    background: silver;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    color: white;
+    border: white solid 10px;
+}
+.sidebar{
+    height: 650px;
+    background: yellowgreen;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    color: white;
+    border: white solid 10px;
+}
+.main{
+    height: 650px;
+    background: yellow;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+    border: white solid 10px;
+}
+.extra{
+    height: 350px;
+    background: gray;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    color: white;
+    border: white solid 10px;
+}
+
+.images{
+    height: 200px;
+    background: rgb(32, 219, 32);
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    color: white;
+    border: white solid 10px;
+}
+.posts{
+    height: 200px;
+    background: hotpink;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    color: white;
+    border: white solid 10px;
+}
+
+.footer{
+    height: 100px;
+    background: rgb(180, 180, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: white solid 10px;
+    margin-bottom: 10px;
+}
